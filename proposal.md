@@ -28,7 +28,7 @@ The repository will include:
 Morfessor does not need labeled data to train. However, to evaluate the model's segmentation quality, I will:
 - Use a small manually annotated list of segmented Telugu words  
 **OR**
-- Attempt to find existing annotated data from Telugu WordNet, IndoWordNet, or linguistic datasets.
+- Attempt to find existing annotated data from Telugu WordNet or linguistic datasets.
 
 ## 🧠 Why This Project?
 
