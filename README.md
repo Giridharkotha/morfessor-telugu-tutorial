@@ -12,7 +12,7 @@ This project is part of the **INFO-539** course and aims to create an accessible
 - Provide a tutorial with code, explanations, and visual examples
 
 ---
-
+```
 ## 📂 Repository Structure
 morfessor-telugu-tutorial/
 │
@@ -31,6 +31,8 @@ morfessor-telugu-tutorial/
 ├── environment.yml # Conda environment setup file
 ├── proposal.md # Initial project proposal
 └── README.md # Project overview
+
+```
 
 ## ⚙️ Installation
 
